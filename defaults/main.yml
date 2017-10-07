@@ -1,0 +1,3 @@
+---
+# NPM
+node_modules_path: "/app/{{ application_name }}"
